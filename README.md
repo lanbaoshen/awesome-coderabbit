@@ -9,6 +9,7 @@ This curated list covers the best resources, tutorials, and community content re
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
 - [API Reference](#api-reference)
+- [Configuration Examples](#configuration-examples)
 - [Integration Guides](#integration-guides)
 - [Media Coverage](#media-coverage)
 - [Video Tutorials](#video-tutorials)
@@ -36,6 +37,61 @@ This curated list covers the best resources, tutorials, and community content re
 ## API Reference
 
 - [OpenAPI Documentation](https://api.coderabbit.ai/api/swagger/) - Complete Swagger documentation for CodeRabbit's REST API endpoints.
+
+## Configuration Examples
+
+### Enterprise Configuration Example
+
+Explore real-world CodeRabbit configurations from various projects.
+
+```yaml
+# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
+language: "en-US"
+early_access: false
+tone_instructions: 'You are an expert code reviewer in Java, TypeScript, JavaScript, and NodeJS. You work in an enterprise software developer team, providing concise and clear code review advice. You only elaborate or provide detailed explanations when requested.'
+reviews:
+  profile: "chill"
+  request_changes_workflow: false
+  high_level_summary: true
+  poem: true
+  review_status: true
+  collapse_walkthrough: false
+  auto_review:
+    enabled: true
+    drafts: false
+    base_branches: ["pg", "release"]
+  path_instructions:
+    - path: "app/client/cypress/**/**.*"
+      instructions: |
+        Review the following e2e test code written using the Cypress test library. Ensure that:
+        - Follow best practices for Cypress code and e2e automation
+        - Avoid using cy.wait in code
+        - Avoid using cy.pause in code
+        - Avoid using agHelper.sleep()
+        - Use locator variables for locators
+        - Use data-* attributes for selectors
+        - Avoid Xpaths, Attributes and CSS path
+        - Avoid selectors like .btn.submit
+        - Perform logins via API
+        - Avoid using it.only
+        - Use multiple assertions
+        - Avoid string assertions
+        - Ensure unique filenames
+chat:
+  auto_reply: true
+```
+
+Find more examples in the [`configs/`](configs/) directory, organized by language:
+
+```
+configs/
+├── javascript/   # JavaScript project configurations
+├── typescript/   # TypeScript project configurations
+├── python/       # Python project configurations
+├── go/          # Go project configurations
+└── multi-language/ # Full-stack project configurations
+```
+
 
 ## Integration Guides
 

@@ -8,6 +8,7 @@ This curated list covers the best resources, tutorials, and community content re
 
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
+- [API Reference](#api-reference)
 - [Integration Guides](#integration-guides)
 - [Media Coverage](#media-coverage)
 - [Video Tutorials](#video-tutorials)
@@ -31,6 +32,10 @@ This curated list covers the best resources, tutorials, and community content re
 - [Getting Started with CodeRabbit](https://www.youtube.com/watch?v=3SyUOSebG7E) - A video guide on getting started.
 - [CodeRabbit Startup Program](https://www.coderabbit.ai/blog/coderabbit-startup-program) - Special program for startups.
 - [AI Code Reviewer Examples](https://www.coderabbit.ai/blog/how-to-use-an-ai-code-reviewer-on-github-in-4-examples) - Four practical examples of using CodeRabbit.
+
+## API Reference
+
+- [OpenAPI Documentation](https://api.coderabbit.ai/api/swagger/) - Complete Swagger documentation for CodeRabbit's REST API endpoints.
 
 ## Integration Guides
 

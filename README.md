@@ -11,16 +11,15 @@ This curated list covers the best resources, tutorials, and community content re
 - [API Reference](#api-reference)
 - [Configuration Examples](#configuration-examples)
 - [Integration Guides](#integration-guides)
-- [Media Coverage](#media-coverage)
 - [Video Tutorials](#video-tutorials)
 - [Blogs](#blogs)
+- [Media Coverage](#media-coverage)
 - [Tools and Extensions](#tools-and-extensions)
 - [Community Reviews](#community-reviews)
 - [Projects Using CodeRabbit](#projects-using-coderabbit)
 
 ## Official Resources
 
-- [Official Website](https://www.coderabbit.ai) - CodeRabbit's main website with product information and features.
 - [Documentation](https://docs.coderabbit.ai) - Comprehensive docs covering all aspects of CodeRabbit.
 - [Blog](https://www.coderabbit.ai/blog) - Official blog featuring updates, tutorials, and best practices.
 - [FAQ](https://www.coderabbit.ai/faq) - Frequently asked questions about CodeRabbit.

@@ -129,12 +129,6 @@ configs/
 - [G2 Reviews](https://www.g2.com/products/coderabbit/reviews) - Verified user reviews and ratings.
 - [Developer Testimonials](https://tomaszs2.medium.com/ai-code-review-tool-coderabbit-replaces-me-and-i-like-it-b1350a9cda58) - Real-world experiences with CodeRabbit.
 
-## Best Practices
-
-- [Static Analysis in CI/CD](https://www.coderabbit.ai/blog/how-to-run-static-analysis-on-your-ci-cd-pipelines-using-ai) - Best practices for implementing static analysis.
-- [DevOps Integration Patterns](https://www.coderabbit.ai/blog/how-to-integrate-ai-code-review-into-your-devops-pipeline) - Recommended patterns for DevOps integration.
-- [Issue Validation Workflows](https://www.coderabbit.ai/blog/how-to-use-coderabbit-to-validate-issues-against-linear-board) - Best practices for issue validation.
-
 ## Projects Using CodeRabbit
 
 > Here is a list of some of the open-source projects using CodeRabbit for AI-powered code reviews.

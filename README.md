@@ -13,6 +13,7 @@ This curated list covers the best resources, tutorials, and community content re
 - [Integration Guides](#integration-guides)
 - [Media Coverage](#media-coverage)
 - [Video Tutorials](#video-tutorials)
+- [Blogs](#blogs)
 - [Tools and Extensions](#tools-and-extensions)
 - [Community Reviews](#community-reviews)
 - [Projects Using CodeRabbit](#projects-using-coderabbit)
@@ -103,6 +104,16 @@ configs/
 ## Video Tutorials
 
 - [Getting Started Tutorial](https://www.youtube.com/watch?v=3SyUOSebG7E) - Official step-by-step guide for new users.
+
+## Blogs
+
+- [AI Can Make a Code Review for Free](https://tomaszs2.medium.com/ai-can-make-a-code-review-for-free-a559cf74efa5)
+- [How to Integrate AI Code Review into Your DevOps Pipeline](https://www.coderabbit.ai/blog/how-to-integrate-ai-code-review-into-your-devops-pipeline)
+- [How to Use an AI Code Reviewer on GitHub in 4 Examples](https://www.coderabbit.ai/blog/how-to-use-an-ai-code-reviewer-on-github-in-4-examples)
+- [CodeRabbit Deep Dive](https://www.coderabbit.ai/blog/coderabbit-deep-dive)
+- [CodeRabbit vs Others: AI Code Review Tools](https://www.devtoolsacademy.com/blog/coderabbit-vs-others-ai-code-review-tools)
+- [Why Developers Hate Linters](https://www.coderabbit.ai/blog/why-developers-hate-linters)
+- [How to Automate TypeScript Code Reviews with CodeRabbit](https://www.coderabbit.ai/blog/how-to-automate-typescript-code-reviews-with-coderabbit)
 
 
 ## Media Coverage

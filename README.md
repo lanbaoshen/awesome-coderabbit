@@ -14,7 +14,6 @@ This curated list covers the best resources, tutorials, and community content re
 - [Video Tutorials](#video-tutorials)
 - [Blogs](#blogs)
 - [Media Coverage](#media-coverage)
-- [Tools and Extensions](#tools-and-extensions)
 - [Community Reviews](#community-reviews)
 - [Projects Using CodeRabbit](#projects-using-coderabbit)
 
@@ -30,7 +29,6 @@ This curated list covers the best resources, tutorials, and community content re
 
 ## Getting Started
 
-- [Getting Started with CodeRabbit](https://www.youtube.com/watch?v=3SyUOSebG7E) - A video guide on getting started.
 - [CodeRabbit Startup Program](https://www.coderabbit.ai/blog/coderabbit-startup-program) - Special program for startups.
 - [AI Code Reviewer Examples](https://www.coderabbit.ai/blog/how-to-use-an-ai-code-reviewer-on-github-in-4-examples) - Four practical examples of using CodeRabbit.
 
@@ -108,7 +106,6 @@ configs/
 
 - [AI Can Make a Code Review for Free](https://tomaszs2.medium.com/ai-can-make-a-code-review-for-free-a559cf74efa5)
 - [How to Integrate AI Code Review into Your DevOps Pipeline](https://www.coderabbit.ai/blog/how-to-integrate-ai-code-review-into-your-devops-pipeline)
-- [How to Use an AI Code Reviewer on GitHub in 4 Examples](https://www.coderabbit.ai/blog/how-to-use-an-ai-code-reviewer-on-github-in-4-examples)
 - [CodeRabbit Deep Dive](https://www.coderabbit.ai/blog/coderabbit-deep-dive)
 - [CodeRabbit vs Others: AI Code Review Tools](https://www.devtoolsacademy.com/blog/coderabbit-vs-others-ai-code-review-tools)
 - [Why Developers Hate Linters](https://www.coderabbit.ai/blog/why-developers-hate-linters)
@@ -119,10 +116,6 @@ configs/
 
 - [TechCrunch Coverage](https://techcrunch.com/2024/08/15/coderabbit-raises-16m-to-bring-ai-to-code-reviews/) - TechCrunch article on CodeRabbit's $16M funding.
 - [Silicon Angle Feature](https://siliconangle.com/2024/08/14/ai-code-review-startup-coderabbit-raises-16m-help-developers-debug-code-faster/) - Coverage of CodeRabbit's funding and mission.
-
-## Tools and Extensions
-
-- [AI PR Reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - Official AI-powered pull request reviewer tool.
 
 ## Community Reviews
 

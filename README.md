@@ -105,7 +105,6 @@ configs/
 ## Blogs
 
 - [AI Can Make a Code Review for Free](https://tomaszs2.medium.com/ai-can-make-a-code-review-for-free-a559cf74efa5)
-- [How to Integrate AI Code Review into Your DevOps Pipeline](https://www.coderabbit.ai/blog/how-to-integrate-ai-code-review-into-your-devops-pipeline)
 - [CodeRabbit Deep Dive](https://www.coderabbit.ai/blog/coderabbit-deep-dive)
 - [CodeRabbit vs Others: AI Code Review Tools](https://www.devtoolsacademy.com/blog/coderabbit-vs-others-ai-code-review-tools)
 - [Why Developers Hate Linters](https://www.coderabbit.ai/blog/why-developers-hate-linters)
